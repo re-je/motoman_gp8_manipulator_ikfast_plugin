@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libmotoman_gp8_manipulator_moveit_ikfast_plugin">
+  <class base_class_type="kinematics::KinematicsBase" name="motoman_gp8_manipulator/IKFastKinematicsPlugin" type="motoman_gp8_manipulator::IKFastKinematicsPlugin">
+    <description>IKFast61 plugin for closed-form kinematics of motoman_gp8 manipulator</description>
+  </class>
+</library>
